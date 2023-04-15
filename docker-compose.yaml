@@ -1,0 +1,5 @@
+services:
+  nestjs-api:
+    image: rafakiss7/nestjs-api
+    ports:
+      - 80:3000
